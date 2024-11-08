@@ -9,7 +9,7 @@ lexeme
 ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
-|88457
+&lt;empty&gt;|88457
 ὁ|88444
 καί|62231
 αὐτός|29396
